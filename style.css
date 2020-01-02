@@ -62,7 +62,7 @@ color: white;
 
 .professional {
   background-color:  hsl(237, 63%, 64%) ;
-  color: white;
+  color: white;  
 }
 
 .professional input[type="button"] {
@@ -202,18 +202,19 @@ input[type="button"] {
 
  }
  .professional {
-   height: 80vh;
+   height: 75vh;
+   margin-top: 3%;
  }
  .professional h2 {
   margin-top: 10%;
 }
  .basic, .master {
-  height: 70vh;
-  margin-top: 11%;
+  height: 65vh;
+  margin-top: 6%;
 }
 .card input[type="button"] {  
   margin-top: 5%;
-  height: 10vh;
+  height: 8vh;
 }
 .professional input[type="button"] {
   
