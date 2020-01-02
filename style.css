@@ -164,8 +164,8 @@ h1 {
   font-weight: 700;
 }
 h2 {
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 4%;
+  padding-bottom: 3%;
 }
 input[type="button"] {
   display: block;
@@ -214,7 +214,7 @@ input[type="button"] {
 }
 .card input[type="button"] {  
   margin-top: 5%;
-  height: 8vh;
+  height: 7vh;
 }
 .professional input[type="button"] {
   
