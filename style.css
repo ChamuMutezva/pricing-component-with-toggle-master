@@ -112,7 +112,7 @@ color: white;
     box-shadow: 0 0 1px #2196F3;
   }
   input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
+   -webkit-transform: translateX(26px);
     -ms-transform: translateX(26px);
     transform: translateX(26px);
   }
@@ -202,6 +202,20 @@ input[type="button"] {
 
  }
  .professional {
-   height: 100%;
+   height: 80vh;
  }
+ .professional h2 {
+  margin-top: 10%;
+}
+ .basic, .master {
+  height: 70vh;
+  margin-top: 11%;
+}
+.card input[type="button"] {  
+  margin-top: 5%;
+  height: 10vh;
+}
+.professional input[type="button"] {
+  
+}
 }

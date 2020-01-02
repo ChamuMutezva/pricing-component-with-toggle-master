@@ -1,22 +1,13 @@
 # Frontend Mentor - File Transfer pricing component
 
-![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
+A Frontend Mentor project [Frontend Mentor](https://www.frontendmentor.io)
 
 ## Welcome! 👋
+To run the project use the link below
+https://chamumutezva.github.io/pricing-component-with-toggle-master/
 
-Thanks for checking out this front-end coding challenge.
+Project created using html, css and javascript only.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
-## The challenge
-
-Your challenge is to build out this pricing component and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
